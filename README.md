@@ -1,4 +1,6 @@
-## Me chamo Isabella,sou estudante do 3º ano do ensino médio, tenho 17 anos e estou aprendendo programação com a linguagem Python.<img width="200" height="28" alt="image" src="https://github.com/user-attachments/assets/1d81652f-280f-43f1-9c93-186505ffae54" />
+## Me chamo Isabella,sou estudante do 3º ano do ensino médio, tenho 17 anos e estou aprendendo programação com a linguagem Python. 👋
+
+<img width="200" height="28" alt="image" src="https://github.com/user-attachments/assets/1d81652f-280f-43f1-9c93-186505ffae54" />
 👋
 
 <!--
