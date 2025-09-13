@@ -1,4 +1,4 @@
-## Hi there 👋
+## Sou estudante do 3º ano do ensino médio, tenho 17 anos e estou aprendendo programação com a linguagem Python. Este projeto foi criado como forma de praticar conceitos básicos e também entender melhor como funciona a organização de dados.👋
 
 <!--
 **altierisa/altierisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
