@@ -1,7 +1,10 @@
-## Me chamo Isabella,sou estudante do 3º ano do ensino médio, tenho 17 anos e estou aprendendo programação com a linguagem Python. 👋
+## 👋 Olá! Eu sou a Isabella
 
-<img width="200" height="28" alt="image" src="https://github.com/user-attachments/assets/1d81652f-280f-43f1-9c93-186505ffae54" />
+Estudante de Sistemas de Informação, focada em desenvolvimento e análise de dados. Desenvolvo projetos práticos em Python (automações, tratamento de erros e web scraping com BeautifulSoup) e utilizo Power BI para a criação de dashboards e relatórios gerenciais.
 
+🚀 Buscando oportunidade de Estágio em Tecnologia / Análise de Dados.
+
+🛠️ Tech Stack: Python, Power BI, SQL, HTML, CSS.
 
 <!--
 **altierisa/altierisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
